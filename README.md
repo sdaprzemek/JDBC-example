@@ -1,3 +1,5 @@
+Repozytorium zawiera przykład z zajęć, nie jest to mój kod. Poniżej w pliku README można znaleźć odnośnik do oryginalnego źródła.
+
 # jdbc-example
 
 Project showing connecting to database using JDBC.
